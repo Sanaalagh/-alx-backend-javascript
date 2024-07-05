@@ -1,11 +1,3 @@
-/**
- * Task 6: Take advantage of template literals
- * Rewrite the return statement to use a template literal
- * 
- * Exported Function:
- *  - getSanFranciscoDescription: returns a string with interpolated variables
- */
-
 export default function getSanFranciscoDescription() {
   const year = 2017;
   const budget = {
